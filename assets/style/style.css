@@ -1,0 +1,47 @@
+
+.nav-link.active{
+  color: #3367d6;
+}
+
+.footer_custom{
+  background: #f5f5f5;
+  border-top: 1px solid #eee;
+  font-size: 11px;
+  line-height: 2.19;
+  list-style: none;
+  padding: 10px 15px 10px 15px;
+  height: 68px;
+}
+
+.footer_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  max-width: 1024px;
+}
+
+.flag {
+  background: transparent url("data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAMAAAAMs7fIAAAABGdBTUEAALGPC/xhBQAAAFpQTFRFAAAAc8b%2BeNj%2BeLL7lt3/YbL4cs/9rNn8p9b7%2Bfn5hdD/a8D/7vD/vOL9itf%2B////3PD%2Byuj9R6348Pb7KZz2UL78MKL3Oqv4Zsz/ndX8qN/%2BI5T0S7X4W8b9mmuivQAAAAF0Uk5TAEDm2GYAAACXSURBVBjTXYqLEsIwCARR%2B27zpCFNxP//TSGOTu3OhDs2wGaPM9bD8hKGMDtnDq130GkxDK/BY/tVc6CtXa21Q72ClFKoqUrINBLAzHP9grKpccxFYmqNIcY4j%2BXDiLJBztmUXCRkGgkgIsZbO1kwEjVDKwYmDriSGt6FPHrnp6x1Bd/vzxP9Bj8mFfBH2K8Gtng1AA95bxQhE7o%2B68UQAAAAAElFTkSuQmCC") left center no-repeat;
+  padding: 10px 0 10px 24px;
+}
+
+.ul_custom{
+  margin: 0;
+}
+
+.li_custom {
+  display: inline;
+  font-weight: 300;
+  letter-spacing: 0;
+  padding: 0;
+}
+
+.a_custom {
+  text-decoration: none;
+  color: rgba(61,61,61,.8);
+}
+
+.a_custom:hover {
+  color: rgba(61,61,61,.8);
+}
